@@ -1,7 +1,0 @@
-1 , Ashley Lim , 34 , ashley@gmail.com , default_pw
-2 , John Doe , 29 , john.doe@email.com , pass12345
-3 , Emily Wong , 31 , emilywong@webmail.com , emily_pw2023
-4 , Michael Zhang , 35 , mzhang@mail.net , mypassword2024
-5 , Sarah Lee , 33 , sarahlee@service.org , sl33secure
-6 , David Kim , 30 , david.kim@online.com , dk_pass098
-7 , Cecelia Ong , 45 , tientien@gmail.com , default123
