@@ -1,0 +1,18 @@
+F01, The Night Circus, Erin Morgenstern, 2011, Fantasy, Doubleday, E-Book, 0, 0, A fantastical novel about a magical competition between two young illusionists.
+F02, The Midnight Library, Matt Haig, 2020, Fantasy, Viking, AudioBook, 4, 5, A thought-provoking novel about the choices we make and the lives we could have lived.
+F03, The Name of the Wind, Patrick Rothfuss, 2007, Fantasy, DAW Books, PaperBook, 4, 0, The story of a magically gifted young man and his adventures at a school for magic.
+R01, Pride and Prejudice, Jane Austen, 1813, Romance, T. Egerton, PaperBook, 4, 0, A classic tale of love and societal expectations in 19th-century England.
+R02, Normal People, Sally Rooney, 2018, Romance, Hogarth, AudioBook, 8, 0, A modern love story about the complexities of relationships and the impact of social class.
+R03, The Notebook, Nicholas Sparks, 1996, Romance, Warner Books, E-Book, 0, 0, A poignant love story about a young couple separated by war and reunited later in life.
+SF01, Dune, Frank Herbert, 1965, Fiction, Chilton Books, PaperBook, 6, 0, A sprawling epic about politics religion and ecology on the desert planet Arrakis.
+SF02, The Martian, Andy Weir, 2011, Fiction, Crown Publishing, E-Book, 0, 0, The story of an astronaut stranded on Mars and his struggle to survive.
+SF03, Ready Player One, Ernest Cline, 2011, Fiction, Crown Publishing, AudioBook, 9, 0, A virtual reality-based quest in a dystopian future.
+H01, The Shining, Stephen King, 1977, Horror, Doubleday, AudioBook, 4, 0, A chilling novel about a family staying in a haunted hotel during the winter.
+H02, Dracula, Bram Stoker, 1897, Horror, Archibald Co., PaperBook, 5, 0, A gothic horror novel about the vampire Count Dracula and his attempt to move from Transylvania to England.
+H03, Bird Box, Josh Malerman, 2014, Horror, Ecco, E-Book, 0, 0, A post-apocalyptic horror novel where the characters must remain blindfolded to survive.
+CF01, Harry Potter, J.K. Rowling, 1997, Fiction, Bloomsbury, E-Book, 0, 0, A young boy discovers he is a wizard and embarks on magical adventures at Hogwarts School of Witchcraft and Wizardry.
+CF02, Charlotte's Web, E.B. White, 1952, Fiction, Harper & Brothers, AudioBook, 5, 0, A pig named Wilbur is saved from slaughter by a clever spider who writes messages in her web.
+CF03, The Tale of Peter Rabbit, Beatrix Potter, 1902, Fiction, Frederick Co., PaperBook, 5, 1, A mischievous rabbit gets into trouble in Mr. McGregor s garden.
+JRN01, Nature Journal, Various Authors, 2020, Journal, Springer, Journal, 9, 1, A collection of groundbreaking research articles in the field of biology physics and environmental sciences.
+JRN02, Harvard Business Review, Various Authors, 2019, Journal, Harvard Publishing, Journal, 8, 0, Articles focused on leadership strategy and management in the business world.
+JRN03, The Lancet, Various Authors, 2021, Journal, Elsevier, Journal, 7, 0, A leading medical journal featuring research in the fields of global health medicine and epidemiology.

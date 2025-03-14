@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes" ?>
+<CodeBlocks_layout_file>
+	<FileVersion major="1" minor="0" />
+	<ActiveTarget name="Debug" />
+	<File name="memberfine.txt" open="1" top="0" tabpos="6" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="25" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="library.h" open="1" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="1886" topLine="68" />
+		</Cursor>
+	</File>
+	<File name="events.txt" open="0" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="borrowing and return.txt" open="1" top="0" tabpos="3" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="805" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Librarian.c" open="1" top="0" tabpos="1" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="36712" topLine="15" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="35" />
+			<Collapse line="85" />
+			<Collapse line="134" />
+			<Collapse line="183" />
+			<Collapse line="286" />
+			<Collapse line="421" />
+			<Collapse line="509" />
+			<Collapse line="565" />
+			<Collapse line="668" />
+			<Collapse line="767" />
+			<Collapse line="870" />
+			<Collapse line="991" />
+			<Collapse line="1039" />
+			<Collapse line="1075" />
+			<Collapse line="1250" />
+			<Collapse line="1398" />
+		</Folding>
+	</File>
+	<File name="memberships.txt" open="1" top="0" tabpos="2" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="237" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Assignment Library Member.c" open="1" top="0" tabpos="8" split="0" active="1" splitpos="0" zoom_1="-2" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="136" topLine="5" />
+		</Cursor>
+		<Folding>
+			<Collapse line="13" />
+			<Collapse line="58" />
+			<Collapse line="99" />
+			<Collapse line="121" />
+			<Collapse line="262" />
+			<Collapse line="285" />
+			<Collapse line="558" />
+			<Collapse line="593" />
+			<Collapse line="666" />
+			<Collapse line="724" />
+			<Collapse line="835" />
+			<Collapse line="953" />
+			<Collapse line="1070" />
+		</Folding>
+	</File>
+	<File name="books.txt" open="1" top="0" tabpos="7" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="579" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="benefit.txt" open="0" top="0" tabpos="4" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="0" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Staff.c" open="1" top="0" tabpos="9" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="184" topLine="23" />
+		</Cursor>
+		<Folding>
+			<Collapse line="11" />
+			<Collapse line="28" />
+			<Collapse line="79" />
+			<Collapse line="125" />
+			<Collapse line="294" />
+			<Collapse line="318" />
+			<Collapse line="593" />
+			<Collapse line="656" />
+			<Collapse line="706" />
+			<Collapse line="747" />
+			<Collapse line="863" />
+			<Collapse line="1021" />
+		</Folding>
+	</File>
+	<File name="main.c" open="1" top="0" tabpos="5" split="0" active="1" splitpos="0" zoom_1="1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="65" topLine="0" />
+		</Cursor>
+	</File>
+	<File name="Guest.c" open="1" top="1" tabpos="10" split="0" active="1" splitpos="0" zoom_1="-1" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="21510" topLine="0" />
+		</Cursor>
+		<Folding>
+			<Collapse line="4" />
+			<Collapse line="73" />
+			<Collapse line="113" />
+			<Collapse line="125" />
+			<Collapse line="233" />
+			<Collapse line="345" />
+			<Collapse line="511" />
+			<Collapse line="607" />
+			<Collapse line="642" />
+			<Collapse line="682" />
+		</Folding>
+	</File>
+	<File name="members.txt" open="1" top="0" tabpos="11" split="0" active="1" splitpos="0" zoom_1="0" zoom_2="0">
+		<Cursor>
+			<Cursor1 position="358" topLine="0" />
+		</Cursor>
+	</File>
+</CodeBlocks_layout_file>

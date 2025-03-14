@@ -1,0 +1,147 @@
+# depslib dependency file v1.0
+1728828291 source:c:\users\user\onedrive - asia pacific university\icp\icp file\guest.c
+	<stdio.h>
+	<stdlib.h>
+
+1728913712 source:c:\users\user\onedrive - asia pacific university\icp\icp file\assignment final\guest.c
+	<stdio.h>
+	<stdlib.h>
+	"librarian.h"
+
+1728913930 source:c:\users\user\onedrive - asia pacific university\icp\icp file\assignment final\staff.c
+	<stdio.h>
+	<stdlib.h>
+	"librarian.h"
+
+1728913930 c:\users\user\onedrive - asia pacific university\icp\icp file\assignment final\librarian.h
+
+1728913325 source:c:\users\user\onedrive - asia pacific university\icp\icp file\assignment final\librarian.c
+	<stdio.h>
+	<stdlib.h>
+	"librarian.h"
+
+1728914168 source:c:\users\user\onedrive - asia pacific university\icp\icp file\assignment final\main.c
+	<stdio.h>
+	<stdlib.h>
+	"librarian.h"
+
+1730170496 source:c:\users\user\onedrive - asia pacific university\assigment file\icp\guest.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1728913930 c:\users\user\onedrive - asia pacific university\assigment file\icp\librarian.h
+
+1730134972 source:c:\users\user\onedrive - asia pacific university\assigment file\icp\staff.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730025125 source:c:\users\user\onedrive - asia pacific university\assigment file\icp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730025125 source:c:\users\limsh\onedrive - asia pacific university\icp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1729499339 c:\users\limsh\onedrive - asia pacific university\icp\librarian.h
+
+1730124047 source:c:\users\limsh\onedrive - asia pacific university\icp\staff.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730043447 source:c:\users\limsh\onedrive - asia pacific university\icp\librarian.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730024572 source:c:\users\limsh\onedrive - asia pacific university\icp\guest.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730171066 source:c:\users\user\onedrive - asia pacific university\assigment file\icp\librarian.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730027114 c:\users\limsh\onedrive - asia pacific university\icp\library.h
+
+1730027114 c:\users\user\onedrive - asia pacific university\assigment file\icp\library.h
+
+1730117925 source:c:\users\user\onedrive - asia pacific university\assigment file\icp\assignment library member.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"library.h"
+
+1730117925 source:c:\users\limsh\onedrive - asia pacific university\icp\assignment library member.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"library.h"
+
+1730117925 source:c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\assignment library member.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"library.h"
+
+1730027114 c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\library.h
+
+1730024572 source:c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\guest.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730025125 source:c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730134972 source:c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\staff.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730043447 source:c:\users\user\onedrive - asia pacific university of technology and innovation (apu)\icp\librarian.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730117925 source:c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\assignment library member.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"library.h"
+
+1730027114 c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\library.h
+
+1730169380 source:c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\guest.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730170153 source:c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\librarian.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730025125 source:c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\main.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
+1730134972 source:c:\users\hp\asia pacific university of technology and innovation (apu)\ng tien tien - icp\staff.c
+	<stdio.h>
+	<stdlib.h>
+	"library.h"
+
